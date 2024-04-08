@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coin
+  - footer
+  - Plant
+  - player
+  - bulletPlant
+  - builletCoin
+  - Boar
+  - tileMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - miniMap
+  - background
+  - tileMap
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3398362321
+    locked: 0
+  - name: tileMap
+    uniqueID: 872938683
+    locked: 0
+  - name: Player
+    uniqueID: 3862229369
+    locked: 0
